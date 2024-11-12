@@ -13,27 +13,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### GIT ANIMAL
 <div align="center">
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/farms/jhgl0419"/>
   </a>
 </div>
 
+### GITHUB STAT
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhgl0419&show_icons=true&theme=radical)
+
 ### SOLVED.AC
-<div>
-  <div align="left">
-    
+
     [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=supercsehan)](https://solved.ac/supercsehan)
     
-  </div>
-  <div align="right">
-    
     ![mazandi profile](http://mazandi.herokuapp.com/api?handle=supercsehan&theme=warm)
-    
-  </div>
-  
-  
-</div>
 
 
