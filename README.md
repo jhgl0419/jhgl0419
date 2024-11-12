@@ -13,11 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhgl0419&show_icons=true&theme=radical)
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/jhgl0419"/>
 </a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhgl0419&show_icons=true&theme=radical)
+
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=supercsehan)](https://solved.ac/supercsehan)
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=supercsehan&theme=warm)
