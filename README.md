@@ -22,10 +22,17 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhgl0419&show_icons=true&theme=radical)
 ### SOLVED.AC
 <div>
+  <div align="left">
+    
+    [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=supercsehan)](https://solved.ac/supercsehan)
+    
+  </div>
+  <div align="right">
+    
+    ![mazandi profile](http://mazandi.herokuapp.com/api?handle=supercsehan&theme=warm)
+    
+  </div>
   
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=supercsehan)](https://solved.ac/supercsehan)
-  
-  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=supercsehan&theme=warm)
   
 </div>
 
