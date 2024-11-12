@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/jhgl0419"/>
-</a>
+<div align="center">
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/jhgl0419"/>
+  </a>
+</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhgl0419&show_icons=true&theme=radical)
 
