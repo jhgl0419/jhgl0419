@@ -14,21 +14,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### GIT ANIMAL
+## GIT ANIMAL
 <div align="center">
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/farms/jhgl0419"/>
   </a>
 </div>
 
-### GITHUB STAT
+## GITHUB STAT
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhgl0419&show_icons=true&theme=radical)
 
-### SOLVED.AC
+## SOLVED.AC
 
-    [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=supercsehan)](https://solved.ac/supercsehan)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=supercsehan)](https://solved.ac/supercsehan)
     
-    ![mazandi profile](http://mazandi.herokuapp.com/api?handle=supercsehan&theme=warm)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=supercsehan&theme=warm)
 
 
