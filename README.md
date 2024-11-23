@@ -16,10 +16,15 @@ Here are some ideas to get you started:
 
 ## GIT ANIMAL
 <div align="center">
-  <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/jhgl0419"/>
-  </a>
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/jhgl0419"
+  width="600"
+  height="300"
+/>
+</a>
 </div>
+
 
 ## GITHUB STAT
 
