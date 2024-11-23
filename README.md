@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ## GIT ANIMAL
-<div align="center">
+<div align="left">
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/jhgl0419"
@@ -27,13 +27,17 @@ Here are some ideas to get you started:
 
 
 ## GITHUB STAT
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhgl0419&show_icons=true&theme=radical)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jhgl0419&show_icons=true&theme=radical" />
+</div>
 
 ## SOLVED.AC
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=supercsehan)](https://solved.ac/supercsehan)
-    
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=supercsehan&theme=warm)
+<div align="left">
+  <a href="https://solved.ac/supercsehan">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=supercsehan" alt="Solved.ac 프로필" />
+  </a>
+  <img src="http://mazandi.herokuapp.com/api?handle=supercsehan&theme=warm" alt="mazandi profile" />
+</div>
 
 
