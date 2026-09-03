@@ -22,7 +22,7 @@ I like taking programs apart — piecing together clues in code and memory to re
 
 ### 💻 Projects
 - **Power-based Feedback Fuzzing of IoT** — a fuzzer using an IoT router's power consumption as a coverage-feedback signal (LSTM request detection; CVE-2022-24355 PoC). *Capstone, 3-member team.*
-- **STIX-based CTI Visualizer** — created-date and SDO-type filtering to make 10K+ line Cyber Threat Intelligence datasets analyzable. *7-member team, presented at Incognito 2024.*
+- **[STIX-based CTI Visualizer](https://github.com/jhgl0419/cti-stix-visualization)** — created-date and SDO-type filtering to make 10K+ line Cyber Threat Intelligence datasets analyzable. *7-member team, presented at Incognito 2024.*
 - **[Symbolic Execution (angr)](https://github.com/jhgl0419/Symbolic_Execution)** — heterogeneous-platform malware analysis via hooking, concolic execution (Symbion), and DMP snapshots.
 
 📝 Deep-dives and writeups on my blog → **[brainpatchnote.dev](https://brainpatchnote.dev)**
